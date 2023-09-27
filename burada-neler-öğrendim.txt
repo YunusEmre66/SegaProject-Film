@@ -1,0 +1,22 @@
+1- flex-1 kalan alanın tamamını alır.
+
+2-container mx-auto değilde her yerde kullanacağımız için 
+extend içinde container: { center:true }, şeklinde yapabiliriz.
+
+3-space-x-8   boşluk bırakır başlıklar arası 
+
+4-containerın bulunduğu yere uppercase yazarsam küçük olan bütün şeyler büyük harfle yazılmış olacak 
+
+5-border-r    border-green-500  bu şekilde çizgi oluşturulabilir. 
+
+6-focus:outline-none inputa tıkladığımızda outline yanmaz 
+
+7-text-transparent bg-gradient-to-r bg-clip-text from-red-900 to-red-300
+
+bununla yazıya gradient verebiliyoruz.
+
+8-responsive design ---- w-16 (varsayılan değer her ekran için geçerli) md:w-32 (md ekrandan sonra bu şekilde olacak)
+lg:w-48 (lg ekrandan sonra bu şekilde olacak)
+
+9:whitespace-nowrap sign up yazısında sayfayı küçültsen bile up aşağı kaymaz, tek satır halinde gözükür her zaman
+

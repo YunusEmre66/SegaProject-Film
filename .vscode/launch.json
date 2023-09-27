@@ -1,0 +1,10 @@
+{
+    "configurations": [
+        {
+            "type": "chrome",
+            "name": "https://fuatmercan.com/kids/api/v1/sliders.php",
+            "request": "launch",
+            "url": "https://fuatmercan.com/kids/api/v1/sliders.php"
+        }
+    ]
+}
